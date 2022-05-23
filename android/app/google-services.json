@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199159465419",
+    "project_id": "hot-beverage-f6bcf",
+    "storage_bucket": "hot-beverage-f6bcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199159465419:android:ddafde167f03667102224e",
+        "android_client_info": {
+          "package_name": "com.shuvo360.hot_breverage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199159465419-51qestjv0m15i8u6as875htl6ltia76p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChZw1rWcFKMnUYynNZGbAVah3XzLfevSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199159465419-51qestjv0m15i8u6as875htl6ltia76p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
